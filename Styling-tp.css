@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body{
+    background-color: bisque;
+    margin=20%;
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px blue;
+    font-size: 7vh;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+#caption{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    color:black;
+}
+div#data{
+    background-color: rgb(46,139,87,0.25);
+    box-shadow: 20px 20px 20px #98fb98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin:11px;
+    margin-top:50px;
+}
+h1.title-SP{
+    font-size: 35px;
+    color:antiquewhite;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
